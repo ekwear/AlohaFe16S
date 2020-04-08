@@ -1,2 +1,2 @@
 # AlohaFe16S
-16S rRNA analysis code for project AlohaFe
+16S rRNA gene amplicon analysis code for project AlohaFe
